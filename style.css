@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+* {
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+   font-family: 'Architects Daughter', cursive;
+
+}
+button{
+    color:blue;
+    background: ;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 8px 10px;
+    border-radius: 3px;
+    transition: all 0.3s ease;
